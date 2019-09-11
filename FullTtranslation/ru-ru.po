@@ -56,40 +56,39 @@ msgstr " Пороговый объем"
 
 #: Editor/Mono/Networking/PlayerConnection/AttachToPlayerGUI.cs:1
 msgid " (Localhost prohibited)"
-msgstr "(Локальный хост запрещен)"
+msgstr " (Локальный хост запрещен)"
 
 #: Editor/Mono/Networking/PlayerConnection/AttachToPlayerGUI.cs:1
 msgid " (Version mismatch)"
-msgstr "(Несоответсвие версии)"
+msgstr " (Несоответсвие версии)"
 
 #: PlatformDependent/iPhonePlayer/Extensions/Managed/iOSSettingsEditorExtension.cs:1
-#, fuzzy
 msgid " A second swipe is required to enact system gesture"
-msgstr "Второй свайп требуется чтобы ввести в действие системный жест"
+msgstr " Второй свайп требуется чтобы ввести в действие системный жест"
 
 #: PlatformDependent/Switch/Editor/Managed/SwitchPlayerSettingsEditorExtension.cs:1
 msgid " A unique identifier for the built game."
-msgstr "Уникальный идентификатор для встроенной игры."
+msgstr " Уникальный идентификатор для встроенной игры."
 
 #: PlatformDependent/Switch/Editor/Managed/SwitchPlayerSettingsEditorExtension.cs:1
 msgid " Base size of UDP receive buffers."
-msgstr "Базовый размер приемных буферов UDP."
+msgstr " Базовый размер приемных буферов UDP."
 
 #: PlatformDependent/Switch/Editor/Managed/SwitchPlayerSettingsEditorExtension.cs:1
 msgid " Base size of UDP send buffers."
-msgstr "Базовый размер буферов отправки UDP."
+msgstr " Базовый размер буферов отправки UDP."
 
 #: PlatformDependent/Switch/Editor/Managed/SwitchPlayerSettingsEditorExtension.cs:1
 msgid " Buffering factor of TCP/IP stack. (Should be 1 to 8.)"
-msgstr "Коэффициент буферизации стека TCP / IP. (Должно быть от 1 до 8.)"
+msgstr " Коэффициент буферизации стека TCP / IP. (Должно быть от 1 до 8.)"
 
 #: PlatformDependent/PS4/Editor/Managed/PS4BuildWindowExtension.cs:1
 msgid " Can make use of PS4 Pro's improved GPU and CPU"
-msgstr "Может использовать улучшенный графический процессор и процессор PS4 Pro"
+msgstr " Может использовать улучшенный графический процессор и процессор PS4 Pro"
 
 #: PlatformDependent/Switch/Editor/Managed/SwitchPlayerSettingsEditorExtension.cs:1
 msgid " Controls whether to enable the Nintendo CPU Profiler in development builds."
-msgstr "Управляет включением Nintendo CPU Profiler в разрабатываемых сборках."
+msgstr " Управляет включением Nintendo CPU Profiler в разрабатываемых сборках."
 
 #: Modules/AssetPipelineEditor/ImportSettings/ModelImporterClipEditor.cs:1
 msgid ""
@@ -97,38 +96,38 @@ msgid ""
 "interpolation between keys in your original animation. Disable this to keep curves as "
 "close as possible to how they were originally authored."
 msgstr ""
-"Кривые будут пересчитаны на каждом кадре. Используйте это, если у вас есть проблемы с "
+" Кривые будут пересчитаны на каждом кадре. Используйте это, если у вас есть проблемы с "
 "интерполяцией между ключами в вашей оригинальной анимации. Отключите это, чтобы кривые "
 "были как можно ближе к тому, как они были изначально созданы."
 
 #: PlatformDependent/iPhonePlayer/Extensions/Managed/iOSSettingsEditorExtension.cs:1
 msgid " Horizontal in portrait, vertical in landscape"
-msgstr "Горизонтальный в портретном, вертикальный в ландшафтном"
+msgstr " Горизонтальный в портретном, вертикальный в ландшафтном"
 
 #: Editor/Mono/Inspector/AvatarMaskInspector.cs:1
 msgid " Import Everything"
-msgstr "Импортировать все"
+msgstr " Импортировать все"
 
 #: PlatformDependent/Switch/Editor/Managed/SwitchPlayerSettingsEditorExtension.cs:1
 msgid " Initial size of TCP receive buffers."
-msgstr "Начальный размер приемных буферов TCP."
+msgstr " Начальный размер приемных буферов TCP."
 
 #: PlatformDependent/Switch/Editor/Managed/SwitchPlayerSettingsEditorExtension.cs:1
 msgid " Initial size of TCP send buffers."
-msgstr "Начальный размер буферов отправки TCP."
+msgstr " Начальный размер буферов отправки TCP."
 
 #: PlatformDependent/Switch/Editor/Managed/SwitchPlayerSettingsEditorExtension.cs:1
 msgid ""
 " Manually specifies queue command buffer size if many compute dispatches are called "
 "(set to 0 to use default values."
 msgstr ""
-"Указанный вручную размер буфера команды очереди, если вызывается много вычислительных "
+" Указанный вручную размер буфера команды очереди, если вызывается много вычислительных "
 "диспетчеров (установите 0, чтобы использовать значения по умолчанию)."
 
 #: PlatformDependent/Switch/Editor/Managed/SwitchPlayerSettingsEditorExtension.cs:1
 msgid " Manually specifies queue control buffer size (set to 0 to use default values."
 msgstr ""
-"Указанный вручную размер буфера управления очередью (установите 0, чтобы использовать "
+" Указанный вручную размер буфера управления очередью (установите 0, чтобы использовать "
 "значения по умолчанию)."
 
 #: PlatformDependent/Switch/Editor/Managed/SwitchPlayerSettingsEditorExtension.cs:1
@@ -136,24 +135,24 @@ msgid ""
 " Maximum number of synchronously called socket operations which will be allowed to "
 "operate concurrently."
 msgstr ""
-"Максимальное количество синхронно вызываемых операций с сокетами, которым будет "
+" Максимальное количество синхронно вызываемых операций с сокетами, которым будет "
 "разрешено работать одновременно."
 
 #: Editor/Mono/Inspector/PlayerSettingsEditor/PlayerSettingsEditor.cs:1
 msgid " Not all platforms support all modes"
-msgstr "Не все платформы поддерживают все режимы"
+msgstr " Не все платформы поддерживают все режимы"
 
 #: PlatformDependent/Switch/Editor/Managed/SwitchPlayerSettingsEditorExtension.cs:1
 msgid " On startup, enable connecting to the devkit with the Unity Profiler."
-msgstr "При запуске включает подключение к devkit с помощью Unity Profiler."
+msgstr " При запуске включает подключение к devkit с помощью Unity Profiler."
 
 #: PlatformDependent/Switch/Editor/Managed/SwitchPlayerSettingsEditorExtension.cs:1
 msgid " On startup, initialize network sockets."
-msgstr "При запуске инициализирует сетевые сокеты."
+msgstr " При запуске инициализирует сетевые сокеты."
 
 #: PlatformDependent/Switch/Editor/Managed/SwitchPlayerSettingsEditorExtension.cs:1
 msgid " On startup, initialize the Network Interface Manager library."
-msgstr "При запуске инициализирует библиотеку диспетчера сетевого интерфейса."
+msgstr " При запуске инициализирует библиотеку диспетчера сетевого интерфейса."
 
 #: PlatformDependent/Switch/Editor/Managed/SwitchPlayerSettingsEditorExtension.cs:1
 msgid " Portion of the memory region to be used for resolver. (Should be 4K aligned)"
@@ -209,7 +208,7 @@ msgstr ""
 #: /Runtime/Graphics/SparseTexture.cpp:75
 msgctxt "Error Message in SparseTexture.cpp"
 msgid " height"
-msgstr "высота"
+msgstr " высота"
 
 #: Editor/Src/AutoDocumentation.cpp:1438
 msgctxt "From AutoDocumentation"
@@ -1065,7 +1064,7 @@ msgstr ""
 
 #: Editor/Mono/Inspector/Enlighten/LightmapParameters.cs:1
 msgid "AO Quality"
-msgstr ""
+msgstr "AO Качество"
 
 #: /Editor/Src/GI/Enlighten/LightingDataAsset.cpp:132
 msgid "AO Textures"
@@ -1138,7 +1137,7 @@ msgstr ""
 
 #: Editor/Mono/WebViewEditorWindow/WebViewEditorWindow.cs:1
 msgid "About"
-msgstr ""
+msgstr "О"
 
 #: /Editor/Src/Commands/HelpMenu.cpp:138
 msgctxt "MenuItem./Help/About Unity"
@@ -1512,11 +1511,11 @@ msgstr ""
 
 #: Editor/Mono/Audio/Mixer/GUI/AudioMixerChannelStripView.cs:1
 msgid "Add.."
-msgstr ""
+msgstr "Добавить.."
 
 #: Editor-Missing:Missing detected at runtime.
 msgid "Add..."
-msgstr ""
+msgstr "Добавить..."
 
 #: Modules/TerrainEditor/TerrainInspector.cs:1
 msgid "Add/remove detail meshes"
@@ -1625,7 +1624,7 @@ msgstr ""
 
 #: Editor/Mono/Inspector/SpeedTree8ShaderGUI.cs:1
 msgid "Advanced Options"
-msgstr ""
+msgstr "Расширенные Настройки"
 
 #: Modules/AssetPipelineEditor/ImportSettings/ModelImporterClipEditor.cs:1
 msgid "Advanced setting for root motion and blending pivot"
@@ -1683,7 +1682,7 @@ msgstr ""
 
 #: PlatformDependent/Switch/Editor/Managed/SwitchPlayerSettingsEditorExtension.cs:1
 msgid "Age"
-msgstr ""
+msgstr "Возраст"
 
 #: Editor/Mono/SceneModeWindows/NavigationWindow.cs:1
 msgid "Agent Display"
@@ -1703,7 +1702,7 @@ msgstr ""
 
 #: Editor/Mono/SceneModeWindows/NavigationWindow.cs:1
 msgid "Agents"
-msgstr ""
+msgstr "Агенты"
 
 #: Editor/Mono/Inspector/AimConstraintEditor.cs:1
 msgid "Aim Vector"
@@ -1771,7 +1770,7 @@ msgstr ""
 #: /Editor/Src/AssetPipeline/TextureImporting/TextureImporterTypes.cpp:132
 #: Editor/Mono/Inspector/LineRendererEditor.cs:1
 msgid "Alignment"
-msgstr ""
+msgstr "Выравнивание"
 
 #: /Runtime/Serialize/SerializationCaching/CachedWriter.h:85
 msgctxt "Error Message in CachedWriter.h"
@@ -1861,11 +1860,11 @@ msgstr ""
 
 #: Editor-Missing:Missing detected at runtime.
 msgid "Allow HDR"
-msgstr ""
+msgstr "Разрешить HDR"
 
 #: Editor-Missing:Missing detected at runtime.
 msgid "Allow MSAA"
-msgstr ""
+msgstr "Разрешить MSAA"
 
 #: Modules/ParticleSystemEditor/ParticleSystemModules/RendererModuleUI.cs:1
 msgid "Allow Roll"
@@ -2099,11 +2098,11 @@ msgstr ""
 
 #: /Runtime/2D/SpriteAtlas/SpriteAtlasTypes.h:41
 msgid "Alpha Texture"
-msgstr ""
+msgstr "Текстура Прозрачности"
 
 #: /Editor/Src/2D/SpriteAtlas/SpriteAtlas_Editor.cpp:33
 msgid "Alpha Textures"
-msgstr ""
+msgstr "Текстуры Прозрачности"
 
 #: /Runtime/Shaders/SerializedShaderData.h:824
 msgid "Alpha To Mask"
@@ -2166,7 +2165,7 @@ msgstr ""
 
 #: Editor-Missing:Missing detected at runtime.
 msgid "Always Animate"
-msgstr ""
+msgstr "Всегда Анимировать"
 
 #: /Runtime/Camera/GraphicsSettings.cpp:493
 #: Editor/Mono/SettingsWindow/GraphicsSettingsEditors.cs:1
@@ -2175,7 +2174,7 @@ msgstr ""
 
 #: Editor/Mono/Inspector/Physics2DSettingsInspector.cs:1
 msgid "Always Show Colliders"
-msgstr ""
+msgstr "Всегда Показывать Коллайдеры"
 
 #: Modules/ParticleSystemEditor/ParticleSystemModules/InitialModuleUI.cs:1
 #: Editor-Missing:Missing detected at runtime.
@@ -39955,7 +39954,7 @@ msgstr ""
 #: /Runtime/Serialize/SerializationTests.cpp:446
 #: Editor/Mono/Inspector/AimConstraintEditor.cs:1
 msgid "Vector"
-msgstr ""
+msgstr "Вектор"
 
 #: Editor/Mono/Inspector/ParticleSystemForceFieldInspector.cs:1
 msgid "Vector Field"
@@ -39967,7 +39966,7 @@ msgstr ""
 
 #: /Runtime/Shaders/SerializedShaderData.h:579
 msgid "Vector Params"
-msgstr ""
+msgstr "Параметры Вектора"
 
 #: /Runtime/Serialize/Blobification/BlobTests.cpp:134
 msgid "Vector3"
@@ -39975,7 +39974,7 @@ msgstr ""
 
 #: Modules/ParticleSystemEditor/ParticleSystemModules/RendererModuleUI.cs:1
 msgid "Velocity"
-msgstr ""
+msgstr "Скорость"
 
 #: Editor-Missing:Missing detected at runtime.
 msgid "Velocity Iterations"
@@ -39990,13 +39989,14 @@ msgid "Velocity over Lifetime"
 msgstr ""
 
 #: Editor/Mono/PreferencesWindow/PreferencesSettingsProviders.cs:1
+#, fuzzy
 msgid "Verify Saving Assets"
-msgstr ""
+msgstr "Проверять Сохранение Ассетов"
 
 #: /Runtime/Misc/BuildSettings.cpp:202
 #: Editor/Mono/Inspector/PlayerSettingsEditor/PlayerSettingsEditor.cs:1
 msgid "Version"
-msgstr ""
+msgstr "Версия"
 
 #: /Editor/Src/EditorOnlyPlayerSettings.h:1978
 msgid "Version Code"
@@ -40004,12 +40004,12 @@ msgstr ""
 
 #: Editor/Mono/Inspector/EditorSettingsInspector.cs:1
 msgid "Version Control"
-msgstr ""
+msgstr "Управление Версиями"
 
 #: /Editor/Mono/GUI/WindowLayout.cs:1018
 msgctxt "MenuItem./Window/Version Control"
 msgid "Version Control"
-msgstr ""
+msgstr "Управление Версиями"
 
 #: Editor/Mono/Inspector/AssemblyDefinitionImporterInspector.cs:1
 msgid "Version Defines"
@@ -40025,7 +40025,7 @@ msgstr ""
 
 #: PlatformDependent/iPhonePlayer/Extensions/Managed/iOSSettingsEditorExtension.cs:1
 msgid "Version*"
-msgstr ""
+msgstr "Версия*"
 
 #: /Runtime/Graphics/Mesh/MeshBlendShape.h:108
 #: Modules/ParticleSystemEditor/ParticleSystemModules/ShapeModuleUI.cs:1
@@ -40064,7 +40064,7 @@ msgstr ""
 
 #: Editor-Missing:Missing detected at runtime.
 msgid "Vertical Axis"
-msgstr ""
+msgstr "Вертикальная Ось"
 
 #: Modules/ParticleSystemEditor/ParticleSystemModules/RendererModuleUI.cs:1
 msgid "Vertical Billboard"
@@ -40105,16 +40105,16 @@ msgstr ""
 
 #: Editor-Missing:Missing detected at runtime.
 msgid "Very High Resolution"
-msgstr ""
+msgstr "Очень Высокое Разрешение"
 
 #: Modules/ProfilerEditor/ProfilerWindow/ProfilerChart.cs:1
 msgid "Video"
-msgstr ""
+msgstr "Видео"
 
 #: /Editor/Mono/Commands/GOCreationCommands.cs:220
 msgctxt "MenuItem./GameObject/Video/Video Player"
 msgid "Video"
-msgstr ""
+msgstr "Видео"
 
 #: Modules/VideoEditor/Editor/VideoPlayerEditor.cs:1
 msgid "Video Clip"
@@ -40143,7 +40143,7 @@ msgstr ""
 
 #: Modules/ParticleSystemEditor/ParticleSystemModules/RendererModuleUI.cs:1
 msgid "View"
-msgstr ""
+msgstr "Вид"
 
 #: Editor/Mono/Sprites/SpritePackerWindow.cs:1
 msgid "View Atlas:"
@@ -40171,8 +40171,9 @@ msgid "Viewport Rect"
 msgstr ""
 
 #: Editor/Mono/Audio/Mixer/GUI/AudioMixerGroupViewList.cs:1
+#, fuzzy
 msgid "Views"
-msgstr ""
+msgstr "Виды"
 
 #: Modules/VREditor/Mono/PlayerSettingsEditorVR.cs:1
 msgid "Virtual Reality SDKs"
@@ -40214,12 +40215,12 @@ msgstr ""
 
 #: Extensions/guisystem/UnityEditor.UI/UI/ScrollRectEditor.cs:1
 msgid "Visibility"
-msgstr ""
+msgstr "Видимость"
 
 #: /Runtime/Misc/PlayerSettings.cpp:594
 #: Editor/Mono/Inspector/PlayerSettingsEditor/PlayerSettingsEditor.cs:1
 msgid "Visible In Background"
-msgstr ""
+msgstr "Видимое в фоновом режиме"
 
 #: Modules/ParticleSystemEditor/ParticleSystemModules/RendererModuleUI.cs:1
 msgid "Visible Inside Mask"
@@ -40248,7 +40249,7 @@ msgstr ""
 
 #: PlatformDependent/MetroPlayer/Extensions/Managed/MetroBuildWindowExtension.cs:1
 msgid "Visual Studio Version"
-msgstr ""
+msgstr "Версия Visual Studio"
 
 #: Editor/Mono/SceneModeWindows/OcclusionCullingWindow.cs:1
 msgid "Visualization"
@@ -40312,7 +40313,7 @@ msgstr ""
 
 #: /Runtime/Shaders/SerializedShaderData.h:157
 msgid "W"
-msgstr ""
+msgstr "W"
 
 #: Editor/Mono/Inspector/RectTransformEditor.cs:1
 msgid "W Delta"
@@ -40320,7 +40321,7 @@ msgstr ""
 
 #: Editor/Mono/Inspector/TextureInspector.cs:1
 msgid "W axis"
-msgstr ""
+msgstr "W ось"
 
 #: Editor/Src/AutoDocumentation.cpp:2960
 msgctxt "From AutoDocumentation"
@@ -40361,7 +40362,7 @@ msgstr ""
 #: Editor/Src/Application/Application.cpp:2251
 #: /Runtime/Shaders/ShaderImpl/ShaderErrors.h:91
 msgid "Warning"
-msgstr ""
+msgstr "Предупреждение"
 
 #: /Runtime/Video/BaseVideoTexture.cpp:84
 msgctxt "Warning Message in BaseVideoTexture.cpp"
@@ -40416,7 +40417,7 @@ msgstr ""
 
 #: Editor-Missing:Missing detected at runtime.
 msgid "Water"
-msgstr ""
+msgstr "Вода"
 
 #: Editor/Src/HubClient/HubClient.cpp:241 Editor/Src/HubClient/Test/HubClientTests.cpp:78
 msgid ""
@@ -40432,7 +40433,7 @@ msgstr ""
 
 #: PlatformDependent/Facebook/Extensions/Managed/BuildWindowExtension.cs:1
 msgid "WebGL"
-msgstr ""
+msgstr "WebGL"
 
 #: /Editor/Src/EditorOnlyPlayerSettings.h:1539
 msgid "WebGL Analyze Build Size"
@@ -40440,7 +40441,7 @@ msgstr ""
 
 #: /Editor/Src/EditorOnlyPlayerSettings.h:1542
 msgid "WebGL Compression Format"
-msgstr ""
+msgstr "WebGL формат сжатия"
 
 #: /Editor/Src/EditorOnlyPlayerSettings.h:1533
 msgid "WebGL Data Caching"
@@ -41705,7 +41706,7 @@ msgstr ""
 
 #: Editor-Missing:Missing detected at runtime.
 msgid "Y axis"
-msgstr ""
+msgstr "Y ось"
 
 #: Editor/Src/AutoDocumentation.cpp:2950
 msgctxt "From AutoDocumentation"
@@ -41719,7 +41720,7 @@ msgstr ""
 
 #: Editor-Missing:Missing detected at runtime.
 msgid "Y-Axis"
-msgstr ""
+msgstr "Y-ось"
 
 #: Editor-Missing:Missing detected at runtime.
 msgid "YX"
@@ -41731,7 +41732,7 @@ msgstr ""
 
 #: Modules/PackageManager/Editor/Managed/PackageManagerCommands.cs:1
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 #: Editor/Mono/GameObjectUtility.bindings.cs:1
 msgid "Yes, change children"
@@ -41739,11 +41740,11 @@ msgstr ""
 
 #: /Runtime/Math/Rect.h:238
 msgid "Ymax"
-msgstr ""
+msgstr "Yмакс"
 
 #: /Runtime/Math/Rect.h:236
 msgid "Ymin"
-msgstr ""
+msgstr "Yмин"
 
 #: Editor-Missing:Missing detected at runtime.
 msgid "You are up to date."
@@ -42078,7 +42079,7 @@ msgstr ""
 #: Modules/AssetDatabase/Editor/Shared/AssetDatabaseInitialization.cpp:172
 #: Modules/AssetDatabase/Editor/Shared/AssetDatabaseInitialization.cpp:186
 msgid "before 5.0"
-msgstr ""
+msgstr "перед 5.0"
 
 #: /Editor/Src/Picking.cpp:49
 msgctxt "Error Message in Picking.cpp"
@@ -42118,7 +42119,7 @@ msgstr ""
 
 #: Editor-Missing:Missing detected at runtime.
 msgid "enum RendererType"
-msgstr ""
+msgstr "перечисление RendererType"
 
 #: Editor/Src/AutoDocumentation.cpp:1654
 msgctxt "From AutoDocumentation"
@@ -42132,7 +42133,7 @@ msgstr ""
 
 #: Editor/Mono/Scripting/APIUpdater/APIUpdaterManager.bindings.cs:1
 msgid "error"
-msgstr ""
+msgstr "ошибка"
 
 #: /Editor/Platform/Linux/ExternalProcess.cpp:90
 msgctxt "Error Message in ExternalProcess.cpp"
@@ -42187,7 +42188,7 @@ msgstr ""
 
 #: Editor/Mono/Prefabs/PrefabOverrides/PrefabOverridesWindow.cs:1
 msgid "in"
-msgstr ""
+msgstr "в"
 
 #: /Editor/Src/Application/Application.cpp:579
 msgctxt "Error Message in Application.cpp"
@@ -42297,132 +42298,137 @@ msgstr ""
 #: /Runtime/GfxDevice/threaded/GfxDeviceWorker.cpp:1933
 msgctxt "Error Message in GfxDeviceWorker.cpp"
 msgid "size in BeginBufferWrite()"
-msgstr ""
+msgstr "размер в BeginBufferWrite()"
 
 #: Editor/Src/AutoDocumentation.cpp:2398
 msgctxt "From AutoDocumentation"
 msgid "spring coefficient [ 0, infinity  ]"
-msgstr ""
+msgstr "коэффициент пружины [ 0, бесконечность ]"
 
 #: /Runtime/Graphics/Mesh/MeshScriptBindings.cpp:439
 msgctxt "Error Message in MeshScriptBindings.cpp"
 msgid "subMeshCount can't be set to negative value"
-msgstr ""
+msgstr "subMeshCount не может быть установлен в отрицательное значение"
 
 #: Editor/Mono/Scripting/APIUpdater/APIUpdaterManager.bindings.cs:1
 msgid "success"
-msgstr ""
+msgstr "успешно"
 
 #: Editor/Src/AutoDocumentation.cpp:2400
 msgctxt "From AutoDocumentation"
 msgid "target value (angle/position) of spring where the spring force is zero."
-msgstr ""
+msgstr "целевое значение (угол/положение) пружины, где сила пружины равна нулю."
 
 #: Editor/Src/AutoDocumentation.cpp:2385
 msgctxt "From AutoDocumentation"
 msgid "target velocity of motor"
-msgstr ""
+msgstr "целевая скорость двигателя"
 
 #: Editor/Src/AutoDocumentation.cpp:2467
 msgctxt "From AutoDocumentation"
 msgid "the target for the event."
-msgstr ""
+msgstr "цель события."
 
 #: Editor/Mono/Animation/AnimationWindow/CurveEditorSettings.cs:1
 msgid "time"
-msgstr ""
+msgstr "время"
 
 #: PlatformDependent/iPhonePlayer/Extensions/Managed/iOSPreferenceWindowExtension.cs:1
+#, fuzzy
 msgid "tvOS Manual Provisioning Profile"
-msgstr ""
+msgstr "tvOS Профиль Обеспечения заданный вручную"
 
 #: PlatformDependent/AppleTV/Extensions/Managed/AppleTVSettingsEditorExtension.cs:1
 msgid "tvOS Provisioning Profile"
-msgstr ""
+msgstr "tvOS Профиль Обеспечения"
 
 #: /Editor/Src/Utility/SerializedProperty.cpp:2956
 msgctxt "Error Message in SerializedProperty.cpp"
 msgid "type is not a LayerMask value"
-msgstr ""
+msgstr "тип не поддерживает значение маски слоя"
 
 #: /Editor/Src/Utility/SerializedProperty.cpp:2601
 msgctxt "Error Message in SerializedProperty.cpp"
 msgid "type is not a enum value"
-msgstr ""
+msgstr "тип не поддерживает значение перечисления"
 
 #: /Editor/Src/Utility/SerializedProperty.cpp:1843
 msgctxt "Error Message in SerializedProperty.cpp"
 msgid "type is not a supported color value"
-msgstr ""
+msgstr "тип не поддерживает значение цвета"
 
 #: /Editor/Src/Utility/SerializedProperty.cpp:1695
 msgctxt "Error Message in SerializedProperty.cpp"
 msgid "type is not a supported float value"
-msgstr ""
+msgstr "тип не поддерживает значение с плавающей запятой"
 
 #: /Editor/Src/Utility/SerializedProperty.cpp:2104
 msgctxt "Error Message in SerializedProperty.cpp"
 msgid "type is not a supported gradient value"
-msgstr ""
+msgstr "тип не поддерживает значение градиента"
 
 #: /Editor/Src/Utility/SerializedProperty.cpp:1363
 msgctxt "Error Message in SerializedProperty.cpp"
 msgid "type is not a supported int value"
-msgstr ""
+msgstr "тип не поддерживает целое значение"
 
 #: /Editor/Src/Utility/SerializedProperty.cpp:2408
 msgctxt "Error Message in SerializedProperty.cpp"
 msgid "type is not a supported pptr value"
-msgstr ""
+msgstr "тип не поддерживает значение указателя"
 
 #: /Editor/Src/Utility/SerializedProperty.cpp:1751
 msgctxt "Error Message in SerializedProperty.cpp"
 msgid "type is not a supported string value"
-msgstr ""
+msgstr "тип не поддерживает строковое значение"
 
 #: /Editor/Src/MacroClient.cpp:49
+#, fuzzy
 msgctxt "Error Message in MacroClient.cpp"
 msgid "unable to write response of evaluation to socket"
-msgstr ""
+msgstr "невозможно записать результат вычисления в сокет"
 
 #: Editor/Src/AutoDocumentation.cpp:2343
 msgctxt "From AutoDocumentation"
 msgid "unicode keyboard character (with modifiers)."
-msgstr ""
+msgstr "символ клавиатуры Unicode (с модификаторами)."
 
 #: /Editor/Src/AssetPipeline/TextureImporting/IHVImageFormats.cpp:590
 msgctxt "Error Message in IHVImageFormats.cpp"
 msgid "unknown texture format (KTX)"
-msgstr ""
+msgstr "неизвестный формат текстуры (KTX)"
 
 #: /Editor/Src/AssetPipeline/TextureImporting/IHVImageFormats.cpp:395
 msgctxt "Error Message in IHVImageFormats.cpp"
 msgid "unknown texture format (PVRv2)"
-msgstr ""
+msgstr "неизвестный формат текстуры (PVRv2)"
 
 #: /Editor/Src/AssetPipeline/TextureImporting/IHVImageFormats.cpp:434
 msgctxt "Error Message in IHVImageFormats.cpp"
 msgid "unknown texture format (PVRv3)"
-msgstr ""
+msgstr "неизвестный формат текстуры (PVRv3)"
 
 #: Modules/PackageManager/Editor/Requests/PackageManagerUpdateAsyncRequests.cpp:97
 msgid "updated"
-msgstr ""
+msgstr "обновлено"
 
 #: Editor/Mono/Animation/AnimationWindow/CurveEditorSettings.cs:1
 msgid "value"
-msgstr ""
+msgstr "значение"
 
 #: Editor/Src/AutoDocumentation.cpp:1294
+#, fuzzy
 msgctxt "From AutoDocumentation"
 msgid ""
 "value is enum of CompatibilityLevel, but can't serialize that so we use an int instead"
 msgstr ""
+"значение это перечисление CompatibilityLevel, но так как оно не может быть "
+"сериализовано, мы используем целое"
 
 #: Editor/Src/AutoDocumentation.cpp:2192
 msgctxt "From AutoDocumentation"
 msgid "x - ray mask, y - activity flag"
-msgstr ""
+msgstr "x - маска луча, y - флаг активности"
 
 #: Editor/Mono/ImportSettings/DesktopPluginImporterExtension.cs:1
 msgid "x64"
@@ -42434,7 +42440,7 @@ msgstr ""
 
 #: Editor/Mono/BuildPipeline/DesktopStandaloneBuildWindowExtension.cs:1
 msgid "x86 + x86_64 (Universal)"
-msgstr ""
+msgstr "x86 + x86_64 (Универсальный)"
 
 #: Editor/Mono/BuildPipeline/DesktopStandaloneBuildWindowExtension.cs:1
 msgid "x86_64"
@@ -42447,23 +42453,24 @@ msgstr ""
 #: Editor/Src/AutoDocumentation.cpp:2191
 msgctxt "From AutoDocumentation"
 msgid "xyz - direction, w - time"
-msgstr ""
+msgstr "xyz - направление, w - время"
 
 #: Editor/Src/AutoDocumentation.cpp:2193
+#, fuzzy
 msgctxt "From AutoDocumentation"
 msgid "xyz - origin, w - max range"
-msgstr ""
+msgstr "xyz - начало, w - макс. диапазон"
 
 #: Editor/Mono/ImportSettings/AssetImporterEditor.cs:1 Editor-Missing:Missing detected at
 #: runtime.
 msgid "{0} Import Settings"
-msgstr ""
+msgstr "{0} Настройки Импорта"
 
 #: Editor/Src/2D/SpriteAtlas/SpriteAtlasPackingJob.cpp:125
 #: Editor/Src/2D/SpriteAtlas/SpriteAtlasPackingJob.cpp:181
 #: Editor/Src/2D/SpriteAtlas/SpriteAtlasPackingJob.cpp:207
 msgid "{0} [{1} of {2}]"
-msgstr ""
+msgstr "{0} [{1} из {2}]"
 
 #: Editor/Mono/BuildPlayerWindow.cs:1
 msgid ""
@@ -42473,45 +42480,55 @@ msgid ""
 "You must be eligible to use Unity Personal Edition to use this build option. Please "
 "refer to our EULA for further information."
 msgstr ""
+"{0} не входит в вашу лицензию Unity Pro. Ваша {0} сборка будет содержать заставку "
+"Unity Personal Edition.\n"
+"\n"
+"Вы должны иметь право использовать Unity Personal Edition, чтобы использовать эту "
+"опцию сборки. Пожалуйста, обратитесь к нашему лицензионному соглашению для получения "
+"дополнительной информации."
 
 #: Editor/Mono/BuildPlayerWindow.cs:1
 msgid ""
 "{0} is not supported in this build.\n"
 "Download a build that supports it."
 msgstr ""
+"{0} не поддерживается в этой сборке.\n"
+"Загрузите сборку, которая это поддерживает."
 
 #: Editor/Mono/Scripting/APIUpdater/APIUpdaterManager.bindings.cs:1
 msgid "{0}Timeout: {1} ms"
-msgstr ""
+msgstr "{0}Таймаут: {1} мс"
 
 #: Editor/Mono/Scripting/APIUpdater/APIUpdaterManager.bindings.cs:1
 msgid "{0}Update configurations from those assemblies may have not been applied."
-msgstr ""
+msgstr "{0}Обновление конфигурации из этих сборок возможно не было применено."
 
 #: Modules/PackageManager/Editor/Requests/PackageManagerUpdateAsyncRequests.cpp:99
 msgid "{0}{1} from version {2} to {3}\n"
-msgstr ""
+msgstr "{0}{1} из версии {2} в {3}\n"
 
 #: Editor-Missing:Missing detected at runtime.
 msgid "|Branch Group"
-msgstr ""
+msgstr "|Группа Веток"
 
 #: Editor-Missing:Missing detected at runtime.
 msgid "|Leaf Group"
-msgstr ""
+msgstr "|Группа Листьев"
 
 #: Editor-Missing:Missing detected at runtime.
+#, fuzzy
 msgid "|Node Count"
-msgstr ""
+msgstr "|Количество Узлов"
 
 #: Editor-Missing:Missing detected at runtime.
 msgid "|Show / Hide Group"
-msgstr ""
+msgstr "|Показать / Спрятать Группу"
 
 #: Editor-Missing:Missing detected at runtime.
+#, fuzzy
 msgid "|Tree Root Node"
-msgstr ""
+msgstr "|Корень Дерева"
 
 #: Modules/ProfilerEditor/ProfilerWindow/ProfilerFrameHierarchyView.cs:1
 msgid "|Warnings"
-msgstr ""
+msgstr "|Предупреждения"
